@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Mt. Kenya Expedition",
+      "date": "2026-03-15",
+      "description": "3-day hiking adventure to Point Lenana. Experience breathtaking views and team bonding.",
+      "type": "upcoming",
+      "category": "travel"
+    },
+    {
+      "id": 2,
+      "name": "Watakatifu Beach Bash",
+      "date": "2026-02-25",
+      "description": "Weekend getaway to Diani Beach. Sun, sand, and good vibes only.",
+      "type": "upcoming",
+      "category": "social"
+    },
+    {
+      "id": 3,
+      "name": "Naivasha Road Trip",
+      "date": "2026-03-20",
+      "description": "Lakeside camping adventure with boat rides and team challenges.",
+      "type": "upcoming", 
+      "category": "roadtrip"
+    },
+    {
+      "id": 4,
+      "name": "Nairobi National Park Safari",
+      "date": "2024-03-10",
+      "description": "A day with the wild! Game drive and picnic in the park.",
+      "type": "past",
+      "category": "travel"
+    },
+    {
+      "id": 5,
+      "name": "Kona Barbeque & Games Night",
+      "date": "2024-02-14",
+      "description": "Valentine's edition hangout with good food, music, and games.",
+      "type": "past",
+      "category": "social"
+    },
+    {
+      "id": 6,
+      "name": "Mombasa Coastal Adventure",
+      "date": "2024-01-05",
+      "description": "New Year coastal road trip exploring beaches and Swahili culture.",
+      "type": "past",
+      "category": "roadtrip"
+    },
+    {
+      "id": 7,
+      "name": "Aberdare Hiking Challenge",
+      "date": "2026-04-12",
+      "description": "Weekend hiking trip through the Aberdare ranges. Challenge yourself!",
+      "type": "upcoming",
+      "category": "travel"
+    },
+    {
+      "id": 8,
+      "name": "Watakatifu Anniversary Gala",
+      "date": "2026-05-15",
+      "description": "Celebrating 3 years of adventures, brotherhood, and memories.",
+      "type": "upcoming",
+      "category": "social"
+    }
+  ]
+}
