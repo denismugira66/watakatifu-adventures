@@ -372,6 +372,36 @@ section {
     margin: 0 auto;
 }
 
+.about-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+    align-items: center;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-text .highlight {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--primary-orange);
+    margin-bottom: var(--space-md);
+}
+
+.about-image {
+    flex: 1;
+    width: 50%;
+}
+
+.about-img {
+    height: 300px;
+    width: 50%;
+    border-radius: var(--radius-lg);
+}
+
+
 .stat {
     text-align: center;
     flex: 1;
@@ -1064,9 +1094,8 @@ section {
 }
 
 .team-member:hover {
-    transform: translateY(-8px);
+    transform: translateY(-4px);
     box-shadow: var(--shadow-medium);
-    border-color: var(--color-orange);
 }
 
 .member-avatar {
@@ -1103,6 +1132,10 @@ section {
     color: var(--color-orange);
     font-size: 0.9rem;
     font-weight: 600;
+}
+
+.member-role p {
+    color: #000000;
 }
 
 /* Contact Section */
